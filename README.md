@@ -1,3 +1,7 @@
+#𝙞𝙣𝙨𝙩𝙖𝙡𝙡𝙚𝙧 𝙤𝙣 𝙩𝙚𝙧𝙢𝙪𝙭
+
+
+
 $ pkg update && pkg upgrade
 
 $ pkg install python
@@ -18,8 +22,8 @@ $ pip install futures
 
 $ git clone https://github.com/XkeyCode/Facebook-Crack
 
-$ cd barusV2
+$ cd Facebook-Crack
 
 $ git pull
 
-$ python barusV2.py
+$ python Freeenc.py
