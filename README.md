@@ -27,7 +27,7 @@ $ pip install simplejson
 
 $ pip install futures
 
-$ git clone https://github.com/XkeyCode/Facebook-Crack
+$ git clone https://github.com/XkeyCode/Facebook-Crack-
 
 $ cd Facebook-Crack
 
