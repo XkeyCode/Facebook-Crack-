@@ -16,7 +16,7 @@ $ pip install simplejson
 
 $ pip install futures
 
-$ git clone https://github.com/jepribarus/barusV2
+$ git clone https://github.com/XkeyCode/Facebook-Crack
 
 $ cd barusV2
 
